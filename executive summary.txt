@@ -1,0 +1,17 @@
+Executive Summary
+
+Intro
+
+Project ini bertujuan untuk megembangkan sistem informasi supply chain management pada perusahaan supplier kayu. Program akan dikembangkan dengan konsep multiplatform. Konsep multiplatform dapat dicapai dengan bahasa pemrograman berbasis web (HTML, PHP, JavaScript). Tujuan penggunaan konsep multiplatform adalah untuk mempermudah monitoring sehingga program dapat diakses dengan perangkat mobile atau desktop.
+Background
+Perkembangan teknologi dan kemajuan sistem informasi serta persaingan dalam industry menuntut perusahaan untuk melakukan proses bisnis dengan optimal. Sehingga dengan sumber daya minimal dapat menghasilkan keuntungan maksimal. Dengan peningkatan efisiensi, perusahaan dapat meningkatkan daya saing terhadap perusahaan lain dalam industry yang sama. Tidak hanya itu dengan penerapan sistem informasi dapat mengurangi human error sehingga kerugian perusahaan akibat human error berkurang.
+
+History
+
+Pada awalnya perusahaan ini tidak menerapkan sistem informasi supply chain management. Akibatnya banyak kesalahan pencatatan stok. Tidak hanya itu, ketidakpastian pengiriman dan penerimaan produk menyebabkan produk tidak sampai just in time, akibatnya ada biaya tambahan untuk menyimpan produk atau ada keterlambatan produksi karena bahan baku terlambat sampai. Masalah ini membuat perusahaan mengeluarkan biaya tanpa benefit yang jelas. Dengan adanya sistem informasi supply chain management diharapakan dapat mengatasi masalah tersebut sehingga perusahaan tidak perlu mengeluarkan biaya karena kesalahan manusia.
+
+Summary of Key Point
+
+Dilatarbelakangi perkembangan teknologi dan kemajuan sistem informasi, penerapan sistem informasi supply chain management sangat penting bagi perusahaan. Tujuannya untuk mengurangi kesalahan manusia, optimalisasi proses bisnis dan paling penting agar tetap survive pada tengah persaingan bisnis yang ketat. Selain itu penerapan sistem informasi supply chain management dapat menghindari kecurangan pekerja. 
+Brief Cost Analysis
+Biaya total untuk penerapan sistem informasi supply chain management sekirar Rp. 100.000.000, ini adalah biaya yang hanya dikeluarkan satu kali untuk development dan integrasi hardware dan software. 50% dari biaya tersebut digunakan untuk pengembangan software custom untuk menyesuaikan proses bisnis perusahaan. 35% biaya tersebut digunakan untuk membeli hardware yang dibutuhkan untuk menjalankan software. Sedangkan sisanya digunakan untuk layanan integrasi antara software dan hardware. Ada juga biaya tahunan yang untuk perawartan sistem informasi sebesar Rp.10.000.000
